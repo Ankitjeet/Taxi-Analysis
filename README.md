@@ -26,24 +26,15 @@
 - **README.md**: The main README file providing an overview of the project and its structure.
 
 
-
-
-2. Navigate to the project directory:
-   ```bash
-   cd nyc_taxi_analysis
-
-3. Follow the steps outlined in the notebooks/ directory for data cleaning, analysis, and visualization.
-4. Open the Power BI file (power_bi/taxi_analysis.pbix) to explore the visualizations and dashboards.
-5. Review the analysis findings and recommendations in the report file (reports/taxi_analysis_report.txt).
+*. Follow the steps outlined in the notebooks/ directory for data cleaning, analysis, and visualization.
+*. Open the Power BI file (power_bi/taxi_analysis.pbix) to explore the visualizations and dashboards.
+*. Review the analysis findings and recommendations in the report file (reports/taxi_analysis_report.txt).
 
 
 ## **Dependencies**
 - **Python 3.x/**
 - **Jupyter Notebook/**
 - **Power BI Desktop/**
-
-## **License**
-This project is licensed under the MIT License.
 
 ## **Acknowledgements**
 The sample datasets used in this project were provided by NYC Gov (https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
